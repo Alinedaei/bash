@@ -1,0 +1,12 @@
+{
+    "recommendations": [
+        "mads-hartmann.bash-ide-vscode",
+        "salemcode8.vagrant-manager",
+        "formulahendry.terminal",
+        "kelvin.vscode-sshfs",
+        "ms-python.vscode-pylance",
+        "batisteo.vscode-django",
+        "castello-dev.bash-snippets",
+        "rogalmic.bash-debug"
+    ]
+}
